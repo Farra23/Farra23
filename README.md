@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm **Fabrizio Perotti**, I am a Bachelor’s in Systems student at Universidad ORT Uruguay 🧑‍💻</p>
+<p align="left">I'm __Fabrizio Perotti__, I am a Bachelor’s in Systems student at Universidad ORT Uruguay 🧑‍💻</p>
 <p align="left">I have always been passionate about technology, and in 2023 I began my journey into programming. Besides computers, I enjoy football and music 😺🤍</p>
 
 ###
