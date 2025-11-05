@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/fabrizio-perotti" target="_blank">
+  <a href="www.linkedin.com/in/fabrizio-perotti" target="www.linkedin.com/in/fabrizio-perotti">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/fabrizioperotti_/" target="_blank">
