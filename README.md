@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Fabrizio Perotti, I am a Bachelor’s in Systems student at Universidad ORT Uruguay 🧑‍💻</p>
+<p align="left">I'm **Fabrizio Perotti**, I am a Bachelor’s in Systems student at Universidad ORT Uruguay 🧑‍💻</p>
 <p align="left">I have always been passionate about technology, and in 2023 I began my journey into programming. Besides computers, I enjoy football and music 😺🤍</p>
 
 ###
@@ -43,8 +43,8 @@
   <a href="https://www.instagram.com/fabrizioperotti_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/fabrizio-perotti" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/fabrizio-perotti" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo" />
   </a>
   <a href="mailto:fperotti2323@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
