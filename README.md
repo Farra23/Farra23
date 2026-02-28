@@ -4,12 +4,11 @@
 
 ###
 
-<h1 align="center">hello world👋</h1>
+<h1 align="center">hello👋</h1>
 
 ###
 
 <p align="left">I'm <strong>Fabrizio Perotti</strong>, I am a Bachelor’s in Systems student at Universidad ORT Uruguay 🧑‍💻</p>
-<p align="left">I have always been passionate about technology, and in 2023 I began my journey into programming. Besides computers, I enjoy football and music 😺🤍</p>
 
 ###
 
